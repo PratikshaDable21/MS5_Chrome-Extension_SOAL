@@ -1,0 +1,23 @@
+
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #container{
+        width: 50%;
+        height: 00%;
+        text-align: center;
+        margin-top: 150px;
+        border-radius: 10px;
+        background-size: cover;
+        background-image: url('3.jpg');
+    }
+    
+    h1{
+        color :  #004d00;
+        font-family :  "Times New Roman";
+        }
+    h2{
+        color : #9933ff;
+    }
